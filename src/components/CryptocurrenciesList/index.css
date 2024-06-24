@@ -1,0 +1,47 @@
+.currencyList-container {
+  border: solid 2px #00e7ff;
+  border-radius: 5px;
+  width: 300px;
+  height: 300px;
+}
+.outer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-headingAndImage-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-image {
+  height: 70px;
+  width: 200px;
+}
+.heading-text-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #092e33;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.coin-type-paragraph {
+  font-family: 'roboto';
+  font-size: 18px;
+  color: #ffffff;
+  margin-right: 10px;
+  font-weight: 500;
+}
+.used-and-euro-texy-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main-heading {
+  font-family: 'roboto';
+  font-size: 20px;
+  color: #00e7ff;
+}

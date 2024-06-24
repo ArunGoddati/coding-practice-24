@@ -1,0 +1,26 @@
+.logo-image {
+  height: 15px;
+  width: 15px;
+  margin-right: 5px;
+}
+.currency-name {
+  font-family: 'roboto';
+  font-size: 15px;
+  color: #ffffff;
+}
+.currency-item-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  list-style-type: none;
+}
+.logo-and-name-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.euro-value {
+  margin-right: 10px;
+}
